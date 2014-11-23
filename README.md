@@ -1,6 +1,7 @@
 getdata
 =======
-main file: run_analysis.R
+main file: `run_analysis.R`
+
 This script downloads the associated Samsung files from archive.ics.uci.edu if they are not present in the working directory. It then proceeds to:
 
 1. Merges the training and the test sets to create one data set.
